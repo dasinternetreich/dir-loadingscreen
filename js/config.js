@@ -83,11 +83,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "BB0NOtxjOZM", name: "Mozart Ave Verum Corpus"}
-	{youtube: "bUsePoATbrU", name: "Lili Marleen"}
-	{youtube: "wOeXNBzFL8o", name: "Beethoven's 7th Symphony"}
-	{youtube: "vngT_H-60SU", name: "Berlin bleibt doch Berlin!"}
-	
+	{youtube: "9AjFN4uD3h4", name: "Beethoven's 7th Symphony"}
 ];
 
 /*Random music order?*/
