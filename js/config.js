@@ -50,7 +50,12 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/DIR-wwii-militaryrp-comingsoon.jpg"
+	"backgrounds/images/World_War_II_battles"
+	"backgrounds/images/world-war-2-wallpaper-12273-hd-wallpapers.jpg"
+	"backgrounds/images/1200303-1920x1080-[DesktopNexus.com.jpg]"
+	"backgrounds/images/soviet-mountain-arrows-292934.jpg"
+	"backgrounds/images/war_massacre_fight_battle_the_second_World_War_II_the_picture_field_soldiers_Russian_German_tanks_planes_guns_ammunition_smoke_fire_wounded_dead_1920x1200.jpg"
+	"backgrounds/images/War_the_Soviet_Union_soldiers_tanks_German_Russian_aircraft_military_battle_2045x1402.jpg"
 ];
 
 /*Random background images order?*/
