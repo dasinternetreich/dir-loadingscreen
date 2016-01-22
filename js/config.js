@@ -97,7 +97,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 35;
+var l_musicVolume = 25;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -105,6 +105,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
+"The wait pays off"
 "Thanks for joining us!"
 
 ];
