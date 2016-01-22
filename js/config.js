@@ -105,7 +105,6 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"The wait pays off"
 "Thanks for joining us!"
 
 ];
