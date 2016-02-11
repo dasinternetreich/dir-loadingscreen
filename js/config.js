@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "9AjFN4uD3h4", name: "Beethoven's 7th Symphony"}
+	{youtube: "3lvif2p4E_c", name: "Fury (2014) Full Soundtrack By Steven Price"}
 ];
 
 /*Random music order?*/
@@ -97,13 +97,14 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 30;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
+"The wait is worth it!",
 "Enjoy the server",
 "Thanks for joining us!"
 
