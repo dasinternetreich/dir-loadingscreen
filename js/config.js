@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "3lvif2p4E_c", name: "Fury (2014) Full Soundtrack By Steven Price"}
+	{youtube: "B2O2ruNFgBc", name: "Company of Heroes OST Full"}
 ];
 
 /*Random music order?*/
