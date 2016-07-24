@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "B2O2ruNFgBc", name: "Company of Heroes OST Full"}
+	{youtube: "dl2PTujb6xc", name: "Red Orchestra 2 - Soundtrack"}
 ];
 
 /*Random music order?*/
@@ -97,7 +97,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 30;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
