@@ -77,7 +77,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 40;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "dl2PTujb6xc", name: "Red Orchestra 2 - Soundtrack"}
+	{youtube: "3wUGjZkMRjI", name: "Company of Heroes 2 - Complete Soundtrack"}
 ];
 
 /*Random music order?*/
@@ -97,7 +97,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 8;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
