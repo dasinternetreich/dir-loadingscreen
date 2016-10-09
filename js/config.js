@@ -13,7 +13,7 @@ var l_serverImage = "images/dir-logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "WWIIMilitaryRP";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -89,7 +89,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "3wUGjZkMRjI", name: "Company of Heroes 2 - Complete Soundtrack"}
+	{youtube: "SRmCEGHt-Qk", name: "Wagner ~ Tannhäuser Overture"},
+	{youtube: "2UXLKmhd920", name: "Mozart ~ Ave Verum Corpus"},
+	{youtube: "QDf0rNf9jKQ", name: "Beethoven ~ Symphony No.7, Mvt II"},
+	{youtube: "8ZZzEodRtz4", name: "Peer Gynt Suite No. 1 ~ The Death Of Ase"},
+	{youtube: "n8Ik6sxPBwE", name: "Max Richter ~ Vivaldi - Summer 2"},
+	{youtube: "XkYvhO0yldA", name: "Max Richter ~ Vivaldi - Winter 3"}
 ];
 
 /*Random music order?*/
