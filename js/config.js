@@ -112,9 +112,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"The wait is worth it!",
-"Enjoy the server",
-"Thanks for joining us!"
+"This was a war to end all wars. -American President Woodrow Wilson",
+"As a soldier, I survived World War I when most of my comrades did not. -Cpl Lester B Pearson,
+"Give me a woman who really loves beer and and I will conquer the world...  -Kaiser Wilhelm II"
 
 ];
 
