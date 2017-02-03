@@ -50,7 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-    "backgrounds/images/w1.jpg",
+        "backgrounds/images/w1.jpg",
 	"backgrounds/images/w2.jpg",
 	"backgrounds/images/w3.jpg",
 	"backgrounds/images/w4.jpg",
@@ -113,8 +113,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "This was a war to end all wars. -American President Woodrow Wilson",
-"As a soldier, I survived World War I when most of my comrades did not. -Cpl Lester B Pearson",
-"Give me a woman who really loves beer and and I will conquer the world...  -Kaiser Wilhelm II"
+"As a soldier I survived World War I when most of my comrades did not. -Cpl Lester B Pearson",
+"Give me a woman who really loves beer and and I will conquer the world... -Kaiser Wilhelm II"
 
 ];
 
