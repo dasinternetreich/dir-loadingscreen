@@ -92,12 +92,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "F9fNOPwqa4g", name: "Wagner ~ Tannhäuser Overture"},
-	{youtube: "E4UxwO4kxX4", name: "Mozart ~ Ave Verum Corpus"},
-	{youtube: "NnkynUZ3p04", name: "Beethoven ~ Symphony No.7, Mvt II"},
-	{youtube: "ChD-IWPRxsA", name: "Peer Gynt Suite No. 1 ~ The Death Of Ase"},
-	{youtube: "hCILkRNga6o", name: "Max Richter ~ Vivaldi - Summer 2"},
-	{youtube: "JNJ2hbisvJg", name: "Max Richter ~ Vivaldi - Winter 3"}
+	{youtube: "F9fNOPwqa4g", name: "TS - There's A Candle Burning Bright"},
+	{youtube: "E4UxwO4kxX4", name: "TS - Angel Of No Man's Land"},
+	{youtube: "NnkynUZ3p04", name: "TS - The Generals Never Listen"},
+	{youtube: "ChD-IWPRxsA", name: "Goodbye Dolly Gray - Harry MacDonough"},
+	{youtube: "hCILkRNga6o", name: "Oh! It's a lovely war!"},
+	{youtube: "JNJ2hbisvJg", name: "SM Kaiser Wilhelm II"}
 ];
 
 /*Random music order?*/
