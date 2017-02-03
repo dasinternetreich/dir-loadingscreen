@@ -50,12 +50,15 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-    "backgrounds/images/w3.jpg",
-	"backgrounds/images/w5.jpg",
-	"backgrounds/images/w2.jpg",
-	"backgrounds/images/w4.jpg",
-	"backgrounds/images/w6.jpg",
-	"backgrounds/images/w1.jpg"
+    "backgrounds/images/w3.png",
+	"backgrounds/images/w7.png",
+	"backgrounds/images/w8.png",
+	"backgrounds/images/w9.png",
+	"backgrounds/images/w5.png",
+	"backgrounds/images/w2.png",
+	"backgrounds/images/w4.png",
+	"backgrounds/images/w6.png",
+	"backgrounds/images/w1.png"
 	
 ];
 
@@ -89,12 +92,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "SRmCEGHt-Qk", name: "Wagner ~ Tannhäuser Overture"},
-	{youtube: "2UXLKmhd920", name: "Mozart ~ Ave Verum Corpus"},
-	{youtube: "QDf0rNf9jKQ", name: "Beethoven ~ Symphony No.7, Mvt II"},
-	{youtube: "8ZZzEodRtz4", name: "Peer Gynt Suite No. 1 ~ The Death Of Ase"},
-	{youtube: "n8Ik6sxPBwE", name: "Max Richter ~ Vivaldi - Summer 2"},
-	{youtube: "XkYvhO0yldA", name: "Max Richter ~ Vivaldi - Winter 3"}
+	{youtube: "F9fNOPwqa4g", name: "Wagner ~ Tannhäuser Overture"},
+	{youtube: "E4UxwO4kxX4", name: "Mozart ~ Ave Verum Corpus"},
+	{youtube: "NnkynUZ3p04", name: "Beethoven ~ Symphony No.7, Mvt II"},
+	{youtube: "ChD-IWPRxsA", name: "Peer Gynt Suite No. 1 ~ The Death Of Ase"},
+	{youtube: "hCILkRNga6o", name: "Max Richter ~ Vivaldi - Summer 2"},
+	{youtube: "JNJ2hbisvJg", name: "Max Richter ~ Vivaldi - Winter 3"}
 ];
 
 /*Random music order?*/
