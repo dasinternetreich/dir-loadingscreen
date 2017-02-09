@@ -93,7 +93,7 @@ var l_musicPlaylist = [
 	{youtube: "TUOPvtVZwo8", name: "Praise the Lord and Pass the Ammunition"},
 	{youtube: "v54vZ4W8598", name: "The Marine Corps Hymn, March"},
 	{youtube: "4NXFCDgyanA", name: "Royal Navy - Heart of Oak"},
-	{youtube: "fc-DgRO1SrQ", name: "Erika - Marschlied"},
+	{youtube: "JeJIUWTYv2w", name: "Schwarzbraun ist die Haselnuss - Marschlied"},
 	{youtube: "0evkEmgBgx0", name: "Panzerlied - Marschlied"}
 
 ];
