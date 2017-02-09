@@ -56,9 +56,7 @@ var l_bgImages = [
 	"backgrounds/images/w4.jpg",
 	"backgrounds/images/w5.jpg",
 	"backgrounds/images/w6.jpg",
-	"backgrounds/images/w7.jpg",
-	"backgrounds/images/w8.jpg",
-	"backgrounds/images/w9.jpg"
+	"backgrounds/images/w7.jpg"
 	
 ];
 
@@ -92,11 +90,11 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "E4UxwO4kxX4", name: "TS - There's A Candle Burning Bright"},
-	{youtube: "ChD-IWPRxsA", name: "TS - The Generals Never Listen"},
-	{youtube: "F9fNOPwqa4g", name: "TS - The Sailor's Life For Me"},
-	{youtube: "ltUXJmUc8tM", name: "O du Deutschland, Ich muß Marschieren"},
-	{youtube: "sImy_hQ8Jvk", name: "HM II, 145 VDHM - Unsere Marine"}
+	{youtube: "TUOPvtVZwo8", name: "Praise the Lord and Pass the Ammunition"},
+	{youtube: "v54vZ4W8598", name: "The Marine Corps Hymn, March"},
+	{youtube: "4NXFCDgyanA", name: "Royal Navy - Heart of Oak"},
+	{youtube: "fc-DgRO1SrQ", name: "Erika - Marschlied"},
+	{youtube: "0evkEmgBgx0", name: "Panzerlied - Marschlied"}
 
 ];
 
@@ -112,17 +110,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"They've won the war that ended all wars. -American President Woodrow Wilson",
-"As a soldier I survived the World War when most of my comrades did not. -Cpl Lester B Pearson",
-"Give me a woman who really loves beer and and I will conquer the world... -Kaiser Wilhelm II",
-"I have a slight attraction to Panzerwagens... -Kürassier Adolf Karlheinz",
-"Break the chains! Down with the Kaiser! -British Syndicalist Roland Rorrow",
-"I always fancied Georgy but he wanted this war. -Kaiser Wilhelm II",
-"America should be first and always first. -Huey Long Leader of America First Union Party",
-"The independence of France will always be at risk if Germany is allowed to live. -French Head of State Sébastien Faure",
-"Germany will always be the pinnacle of mankind. -Feldwebel Adolf Hitler",
-"Czar Nicholaas is only fit to live in a country house and grow turnips. -Kaiser Wilhelm II",
-"But how? Oy vey! -Chaim Goldstein Commercial Bank Owner"
+"I saw my enemies in Munich, and they're worms. -Adolf Hitler",
+"Never in the field of human conflict has so much been owed by so many to so few. -Winston Churchill",
+"Which would your men rather be, tired, or dead? -Erwin Rommel",
+"If everyone is thinking alike, then somebody isn't thinking. -George S. Patton",
+"If we have power, we'll never give up unless we're carried out of our offices as corpses. -Joseph Goebbels",
+"The mediterranean will be turned into an Italian lake. -Benito Mussolini"
 
 ];
 
