@@ -90,11 +90,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "TUOPvtVZwo8", name: "Praise the Lord and Pass the Ammunition"},
-	{youtube: "v54vZ4W8598", name: "The Marine Corps Hymn, March"},
-	{youtube: "4NXFCDgyanA", name: "Royal Navy - Heart of Oak"},
-	{youtube: "JeJIUWTYv2w", name: "Schwarzbraun ist die Haselnuss - Marschlied"},
-	{youtube: "0evkEmgBgx0", name: "Panzerlied - Marschlied"}
+	{youtube: "ic0OdGxaTA", name: "Napoleon Total War - Soundtrack/OST"}
 
 ];
 
@@ -110,12 +106,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"I saw my enemies in Munich, and they're worms. -Adolf Hitler",
-"Never in the field of human conflict has so much been owed by so many to so few. -Winston Churchill",
-"Which would your men rather be, tired, or dead? -Erwin Rommel",
-"If everyone is thinking alike, then somebody isn't thinking. -George S. Patton",
-"If we have power, we'll never give up unless we're carried out of our offices as corpses. -Joseph Goebbels",
-"The mediterranean will be turned into an Italian lake. -Benito Mussolini"
+"We make war that we may live in peace. - Aristotle, Greek philosopher",
+"The only thing I am afraid of is fear. - Arthur Wellesley, Duke of Wellington",
+"Intellect is invisible to the man who has none. - Arthur Schopenhauer, German philosopher",
+"The Lord is a man of war. - Exodus 15.3",
+"Without supplies no army is brave. - Frederick II the Great, King of Prussia",
+"Soldiers generally win battles; generals get credit for them. - Napoleon Bonaparte, French Emperor and general"
 
 ];
 
