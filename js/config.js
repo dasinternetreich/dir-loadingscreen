@@ -106,11 +106,12 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "We make war that we may live in peace. - Aristotle, Greek philosopher",
-"The only thing I am afraid of is fear. - Arthur Wellesley, Duke of Wellington",
-"Intellect is invisible to the man who has none. - Arthur Schopenhauer, German philosopher",
+"Oh, I know what the ladies like... - Avery Johnson",
+"We are droppin' into Hell, troopers! Time to grow a pair! - GySgt. Edward Buck",
 "The Lord is a man of war. - Exodus 15.3",
-"Without supplies no army is brave. - Frederick II the Great, King of Prussia",
-"Soldiers generally win battles; generals get credit for them. - Napoleon Bonaparte, French Emperor and general"
+"In my day we didn't have no fancy shmansy tanks, we had sticks and a rock for the whole platoon! And we had to share the rock! - Avery Johnson",
+"Child of my enemy, why have you come? I offer no forgiveness, a father's sins, passed to his son. - Gravemind",
+"Wort wort wort... - Any Elite in Halo: CE"
 
 ];
 
