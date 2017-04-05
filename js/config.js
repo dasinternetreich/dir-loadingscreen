@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "ic0OdGxaTA", name: "Napoleon Total War - Soundtrack/OST"}
+	{youtube: "U-_C1AZ3wGU", name: "Unplugged Halo Music Album"}
 
 ];
 
