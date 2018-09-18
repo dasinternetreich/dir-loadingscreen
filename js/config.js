@@ -104,12 +104,15 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "We make war that we may live in peace. - Aristotle, Greek philosopher",
-"Oh, I know what the ladies like... - Avery Johnson",
-"We are droppin' into Hell, troopers! Time to grow a pair! - GySgt. Edward Buck",
+"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler",
+"The only real power comes out of a long rifle. - Josef Stalin",
 "The Lord is a man of war. - Exodus 15.3",
-"In my day we didn't have no fancy shmansy tanks, we had sticks and a rock for the whole platoon! And we had to share the rock! - Avery Johnson",
-"Child of my enemy, why have you come? I offer no forgiveness, a father's sins, passed to his son. - Gravemind",
-"Wort wort wort... - Any Elite in Halo: CE"
+"I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
+"The death of one man is a tragedy. The death of millions is a statistic. - Josef Stalin",
+"The victor will never be asked if he told the truth. - Adolf Hitler",
+"Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill",
+"The only thing we have to fear is fear itself. - Franklin D. Roosevelt",
+"May God have mercy upon my enemies, because I won’t. - General George Patton"
 
 ];
 
