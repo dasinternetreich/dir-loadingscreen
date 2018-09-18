@@ -84,7 +84,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "U-_C1AZ3wGU", name: "Unplugged Halo Music Album"}
+	{youtube: "gne6XoN-W7o", name: "Symphony no. 7 Allegretto Mvt 2 - Bethoven"},
+	{youtube: "BB0NOtxjOZM", name: "Ave Verum Corpus - Mozart"},
+        {youtube: "S-Xm7s9eGxU", name: "Erik Satie - Gymnopédie No.1"},
+        {youtube: "XNSsv86lsok", name: "He Who Saves One Life saves the World Entire - John Williams"}
 
 ];
 
