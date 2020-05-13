@@ -84,10 +84,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "gne6XoN-W7o", name: "Symphony no. 7 Allegretto Mvt 2 - Bethoven"},
-	{youtube: "BB0NOtxjOZM", name: "Ave Verum Corpus - Mozart"},
-        {youtube: "S-Xm7s9eGxU", name: "Erik Satie - Gymnopédie No.1"},
-        {youtube: "XNSsv86lsok", name: "He Who Saves One Life saves the World Entire - John Williams"}
+	{youtube: "KKg-oVi7QrU", name: "Star Wars - Rise Of The Empire"},
+	{youtube: "_6a28ZAMKmI", name: "Star Wars - I'm So Sorry"},
+        {youtube: "Ab943UeSGPs", name: "Star Wars - The Great Jedi Purge"},
+        {youtube: "eb2zuegwcwk", name: "Star Wars - The Force Suite"}
 
 ];
 
@@ -103,16 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"We make war that we may live in peace. - Aristotle, Greek philosopher",
-"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler",
-"The only real power comes out of a long rifle. - Josef Stalin",
-"The Lord is a man of war. - Exodus 15.3",
-"I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
-"The death of one man is a tragedy. The death of millions is a statistic. - Josef Stalin",
-"The victor will never be asked if he told the truth. - Adolf Hitler",
-"Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill",
-"The only thing we have to fear is fear itself. - Franklin D. Roosevelt",
-"May God have mercy upon my enemies, because I won’t. - General George Patton"
+"May the force be with you.",
+"We're glad to have you.",
+"You will be loaded in shortly."
 
 ];
 
