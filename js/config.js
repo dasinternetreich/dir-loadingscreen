@@ -84,10 +84,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "KKg-oVi7QrU", name: "Star Wars - Rise Of The Empire"},
-	{youtube: "_6a28ZAMKmI", name: "Star Wars - I'm So Sorry"},
-        {youtube: "Ab943UeSGPs", name: "Star Wars - The Great Jedi Purge"},
-        {youtube: "eb2zuegwcwk", name: "Star Wars - The Force Suite"}
+	{youtube: "O7zGFZNinsk", name: "Auferstanden Aus Ruinen"},
+        {youtube: "iwIvS4yIThU", name: "Beethoven, Symphony No. 9, 2nd Movement"}
 
 ];
 
@@ -103,9 +101,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"May the force be with you.",
-"We're glad to have you.",
-"You will be loaded in shortly."
+"Plan, work and govern together.",
+"Quality begins with thought.",
+"My workplace: My battleground for peace."
 
 ];
 
